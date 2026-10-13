@@ -11,5 +11,5 @@ VRBridge — 基于 libwebsockets 的 C++ WebSocket 服务，把检测结果序�
 待更新功能：  
 [1] 初级版  
 通过websocket通讯，实现利用前端(vue+three.js)实时显示/模拟 出后端的识别和处理的数据(类似仿真)  
-[2] 进阶版
+[2] 进阶版  
 同样通过websocket通讯，但将前端技术换为，使用更精细的UE  
